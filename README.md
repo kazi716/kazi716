@@ -18,6 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/arceuzvx/owasp-jisu-commit-and-secure-workshop-2026"><img src="https://raw.githubusercontent.com/arceuzvx/owasp-jisu-commit-and-secure-workshop-2026/main/badges/generated/kazi716.svg" width="280" alt="Kazi's Contributor Badge" /></a>
+  &nbsp;&nbsp;
+  <a href="https://credsverse.com/credentials/f9dc97e7-68aa-4731-adf7-39d68d325572"><img src="https://cdn.certifier.io/5381a06d-7d98-4d0a-87c7-209ab61384b8/credentials/01kqh82t9qb5ery4jt2ah6kkm5/designs/01kqh5ay1yvdav7c3e8g8d39ph/QI0c_nkCCp.png" width="280" alt="Credsverse Credential" /></a>
 </div>
 
 ### 📊 GitHub Statistics
