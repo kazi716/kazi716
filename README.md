@@ -14,6 +14,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+### 🏆 Achievements & Badges
+
+<div align="center">
+  <a href="https://github.com/arceuzvx/owasp-jisu-commit-and-secure-workshop-2026"><img src="https://raw.githubusercontent.com/arceuzvx/owasp-jisu-commit-and-secure-workshop-2026/main/badges/generated/kazi716.svg" width="280" alt="Kazi's Contributor Badge" /></a>
+</div>
+
 ### 📊 GitHub Statistics
 
 <div align="center">
