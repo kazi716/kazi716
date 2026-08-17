@@ -17,13 +17,13 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kazi716&show_icons=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=kazi716&show_icons=true&theme=radium" alt="GitHub Stats" />
 </div>
 
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kazi716&theme=radium" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kazi716&theme=radium" alt="GitHub Streak" />
 </div>
 
 ### 🐍 Contribution Snake
