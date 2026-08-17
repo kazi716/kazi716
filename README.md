@@ -23,7 +23,7 @@
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kazi716&theme=radium" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kazi716&theme=radium" alt="GitHub Streak" />
 </div>
 
 ### 🐍 Contribution Snake
