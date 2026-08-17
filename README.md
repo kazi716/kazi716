@@ -1,15 +1,18 @@
-# 👋 Hey there, I'm Kazi
+# 👋 Hey there, I'm Kazi Md Samim Faraj
 
 ### 💜 About Me
-- 🎓 I'm currently studying...
-- 💻 I'm currently working on...
-- 🌱 I'm currently learning...
-- 📫 How to reach me: ...
+- 🎓 I'm a Cybersecurity & Cloud Engineering student.
+- 💻 Check out my [Portfolio Website](https://kazi-s-portfolio.vercel.app/) and [Official Credly Transcript](https://www.credly.com/users/kazi-md-samim-faraj).
+- 🏆 I hold **24 Verified Certifications & Skill Badges**, including AWS Cloud (11 Badges), Google Cloud (6 Badges), Cisco & OPSWAT (3 Certs), and Anthropic AI Fluency.
+- 📫 How to reach me: [samimkazi716@gmail.com](mailto:samimkazi716@gmail.com) | [LinkedIn](https://linkedin.com/in/kazi-md-samim-faraj)
 
-### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🛠 Tech Stack & Cloud Skills
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 📊 GitHub Statistics
 
