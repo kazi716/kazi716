@@ -47,6 +47,10 @@ AWS | Google Cloud | Cisco & OPSWAT | Anthropic AI
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=kazi716&repo=Kazi-s-Portfolio&theme=transparent&hide_border=true"/>
 </a>
 
+<a href="https://github.com/kazi716/silentspot">
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=kazi716&repo=silentspot&theme=transparent&hide_border=true"/>
+</a>
+
 </div>
 
 ---
